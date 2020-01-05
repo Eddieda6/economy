@@ -1,6 +1,6 @@
 
 <h1 align="center">网红背后的力量</h1>
-
+<h3 align="center">pythonanywhere链接：http://lujizhi.pythonanywhere.com</h3>
 <div align="center">
 
 探讨网红背后的数据经济与热门移动端APP的发展是如何构建精准节点，实现庞大的经济效益
